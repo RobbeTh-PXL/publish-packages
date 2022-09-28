@@ -15,5 +15,5 @@ jobs:
           username: RobbeTh-PXL
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
-          repository: RobbeTh-PXL/publish-packages/game
+          repository: robbeth-pxl/publish-packages/game
           tag_with_sha: true
